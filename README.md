@@ -73,7 +73,3 @@ TheRootBar is a social platform built using Java Swing, with a focus on user int
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure your changes are well-tested and documented.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
