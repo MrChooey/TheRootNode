@@ -1,6 +1,6 @@
-# TheRootBar
+# TheRootNode
 
-TheRootBar is a social platform built using Java Swing, with a focus on user interaction through posts, comments, likes, and moderation. The project includes various user roles (user, moderator, and administrator) to enable dynamic content management and reporting functionality. It allows users to create posts, like/unlike posts, and report inappropriate content. Moderators can review reports and manage posts.
+TheRootNode is a social platform built using Java Swing, with a focus on user interaction through posts, comments, likes, and moderation. The project includes various user roles (user, moderator, and administrator) to enable dynamic content management and reporting functionality. It allows users to create posts, like/unlike posts, and report inappropriate content. Moderators can review reports and manage posts.
 
 ## Features
 
