@@ -29,7 +29,6 @@ TheRootBar is a social platform built using Java Swing, with a focus on user int
 - **Java Swing** for the graphical user interface.
 - **MySQL** for database management.
 - **JDBC** for connecting Java application to MySQL database.
-- **Multithreading** for updating live clock.
 
 ## Installation
 
